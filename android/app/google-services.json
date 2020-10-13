@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "805511554153",
+    "firebase_url": "https://chatapp-14515.firebaseio.com",
+    "project_id": "chatapp-14515",
+    "storage_bucket": "chatapp-14515.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:805511554153:android:2cc4092f3b61745695eef8",
+        "android_client_info": {
+          "package_name": "com.example.flu_log_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "805511554153-tddon719u4afe9en8i8s02d73kmmaitd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuxarfxNsuu0CzPW9VgqvD2a0ZkB6d-CQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "805511554153-tddon719u4afe9en8i8s02d73kmmaitd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
