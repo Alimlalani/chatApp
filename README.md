@@ -1,4 +1,4 @@
-# flu_log_app
+# flu_chat_app
 
 A new Flutter application.
 
